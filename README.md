@@ -70,14 +70,13 @@ graph TD
     D --> K[CSV Export]
 ```
 
-## 🚀 How to Run
+## 🚀 Quick Start
+The fastest way to get started is to download the production-ready APK directly from our website:
 
-### Prerequisites
-- Flutter SDK (v3.24 or higher)
-- Android Studio / VS Code with Flutter extension
-- An Android device or emulator
+👉 **[Download APK from Website](https://quickcampussplit.vercel.app/)**
 
-### Steps
+## 🏗 How to Run from Source
+If you are a developer and want to run the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/roopakv-glithub/Campus_quick_split.git
