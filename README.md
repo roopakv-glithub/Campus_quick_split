@@ -2,7 +2,17 @@
 
 **Split expenses. Settle smarter.**
 
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://quickcampussplit.vercel.app/)
+
 Campus QuickSplit is a mobile-first expense management tool designed specifically for university students to manage shared costs for housing, food, trips, and more. It eliminates the social friction of shared spending with a powerful Smart Settlement algorithm that minimizes the number of transfers needed to clear debts.
+
+## 🌐 Live Demo
+Check out the project website: [https://quickcampussplit.vercel.app/](https://quickcampussplit.vercel.app/)
+
+## 🎯 Project Mission
+University life involves constant shared spending: group dinners, shared taxi rides, hostel rent, and weekend trips. Tracking these across multiple apps, calculators, and chat groups leads to calculation errors and social friction. 
+
+**Campus QuickSplit** provides a unified, offline-first platform that handles the complexity of "who owes whom" using advanced algorithms, providing students with a transparent and stress-free way to manage group finances.
 
 ## 🌟 Key Features
 
@@ -30,7 +40,7 @@ Campus QuickSplit is a mobile-first expense management tool designed specificall
 - **Dark Mode Optimization:** Charts automatically adapt for maximum readability in all themes.
 
 ### 5. Data & Privacy
-- **Offline First:** Powered by **Isar NoSQL**, ensuring all data stays on your device for maximum privacy and zero latency.
+- **Local Database (Isar):** Powered by **Isar NoSQL**, a high-performance local database. All your data stays 100% on your device, ensuring maximum privacy and zero-latency access without requiring an internet connection.
 - **Data Portability:** Export your entire history to a professional CSV report instantly.
 - **Customizable:** Multi-currency support (₹/$) and theme vibes (Light/Dark/System).
 
@@ -38,7 +48,7 @@ Campus QuickSplit is a mobile-first expense management tool designed specificall
 
 - **Framework:** [Flutter](https://flutter.dev/) (3.24+)
 - **State Management:** [Riverpod](https://riverpod.dev/) (2.6+)
-- **Database:** [Isar](https://isar.dev/) (High-performance NoSQL)
+- **Database:** [Isar](https://isar.dev/) (High-performance NoSQL for Flutter)
 - **Local Storage:** [Path Provider](https://pub.dev/packages/path_provider)
 - **Animations:** [Animations Package](https://pub.dev/packages/animations)
 - **Charts:** [FL Chart](https://pub.dev/packages/fl_chart)
