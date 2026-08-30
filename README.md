@@ -54,6 +54,20 @@ University life involves constant shared spending: group dinners, shared taxi ri
 - **Charts:** [FL Chart](https://pub.dev/packages/fl_chart)
 - **Fonts:** [Google Fonts (Inter)](https://fonts.google.com/specimen/Inter)
 
+## 🛡️ The "Anti-Chaos" Engine: Handling Edge Cases
+*Because campus life is messy, but your math shouldn't be.*
+
+> [!TIP]
+> **Precision Engineering:** We don't just split numbers; we handle the social and mathematical "glitches" of shared living.
+
+| The "What If" Scenario | Our Creative Solution |
+| :--- | :--- |
+| **The Missing Cent Mystery** | When splitting ₹100 among 3 people, someone always gets stuck with the extra paisa. We use **Precise Remainder Allocation** logic to ensure the total always matches the bill—down to the last decimal. |
+| **The Circle of Debt** | A owes B, B owes C, and C owes A? Instead of three separate transfers, our **Smart Settlement Algorithm** detects loops and nullifies them, potentially reducing your transfers to zero. |
+| **The Roommate Pay-Mix** | Giant grocery haul paid by three different people? We support **Multi-Payer Contributions**, allowing you to log exactly who paid what, while still splitting the total cost fairly. |
+| **The "Dead Zone" Defense** | Stuck in a basement library with no Wi-Fi? QuickSplit is **100% Offline-First**. Your data is stored in the ultra-fast **Isar NoSQL** database on-device, internet or not. |
+| **The "Math is Hard" Guardrail** | Tried to split ₹100 but only assigned ₹90? Our **Real-time Allocation Validator** blocks the "Save" button and highlights the error, saving you from awkward "you still owe me" chats later. |
+
 ## 📊 Data Flow
 
 ```mermaid
